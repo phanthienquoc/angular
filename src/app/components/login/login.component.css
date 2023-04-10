@@ -1,0 +1,14 @@
+input {
+    height: 40px;
+    width: 400px;
+    border-radius: 0.5rem;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form>* {
+    margin-top: 1rem;
+}
